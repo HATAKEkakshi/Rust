@@ -23,8 +23,9 @@ fn second(){
     }
 }
 fn third(){
+    let n=101;
     let  _x=0;
-    for x in 1..11{
+    for x in 1..n{
         println!("{}",x);
     }
 }
